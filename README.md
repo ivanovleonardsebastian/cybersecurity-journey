@@ -16,9 +16,15 @@ security concepts and real lab work, documented step by step.
 | 3 | Security concepts + Cisco CCST Cybersecurity | Planned |
 | 4 | CompTIA Security+ | Planned |
 
-## Structure
-- `00-orientare` to `04-security-plus`: notes for each phase
-- `projects`: documented hands-on projects
+## Certifications
+| Certification | Status |
+|---|---|
+| Cisco CCST Cybersecurity | Planned |
+| CompTIA Security+ (SY0-801) | Planned |
+
+## Projects
+See the [`projects`](projects) folder. Each project is documented with its
+goal, setup, steps, findings and lessons learned.
 
 ## Background
 Bachelor's thesis: "The Impact of Shadow IT on Organizational Information Security"
